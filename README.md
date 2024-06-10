@@ -1,1 +1,2 @@
-# Qimage-platform-repo
+# Qimage-platform
+Qimage platform is a a container development platform for developing containerized applications, in manually configurable isolation from the system and configurable system access to the application. Thanks to this, you can create an application with an already packaged library that is not in the system; it is possible for the application user to install several versions of them, and so on. 
